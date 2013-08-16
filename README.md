@@ -1,4 +1,4 @@
 binary-tree
 ===========
 
-Template based binary tree class implimented in c++
+Template based binary tree class implemented in c++
